@@ -1,8 +1,8 @@
 package p1;
 
 public class Bruch {
-	int z;
-	int n;
+	public int z;
+	public int n;
 	
 	public Bruch(int zaehler, int nenner) {
 		z = zaehler;

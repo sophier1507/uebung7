@@ -23,6 +23,6 @@ public class P1_main {
 	public static void multFrac(Bruch a, Bruch b) {
 		int z = a.z * b.z;
 		int n = a.n * b.n;
-		System.out.println(z + ":" + n);
+		System.out.println(z + ":" + n); // oder ef multFrac(a.z, a.n, b.z, b.n);
 	}
 }
