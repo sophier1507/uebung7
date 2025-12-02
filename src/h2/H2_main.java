@@ -5,11 +5,11 @@ import java.util.Arrays;
 public class H2_main {
 
 	public static void main(String[] args) {
-		int[] a = {2, 7, 1, 9};
+		/*int[] a = {2, 7, 1, 9};
 		int[] b = {5, 6, 7};
 		System.out.println(Arrays.toString(change(a, b, 2, 4)));
 		System.out.println(Arrays.toString(change(a, a, 2, 4)));
-		System.out.println(Arrays.toString(change(a, a, 3, 2)));
+		System.out.println(Arrays.toString(change(a, a, 3, 2)));*/
 
 	}
 
@@ -26,9 +26,6 @@ public class H2_main {
 			} else {
 				int[] result = {};
 				return result;
-			}
-				
-			
-		
+			}	
 	}
 }

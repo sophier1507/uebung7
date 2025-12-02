@@ -1,10 +1,10 @@
 package h1;
 
 public class Zahl {
-	boolean even; //ka 
-	boolean small;
-	boolean positive;
-	int num;
+	boolean even = false; 
+	boolean small = false;
+	boolean positive = false;
+	int num = 0;
 	
 	public Zahl(boolean e, boolean s, boolean p, int n) {
 		even = e;
