@@ -3,7 +3,7 @@ package h1;
 public class H1_main {
 
 	public static void main(String[] args) {
-		/*Zahl z = new Zahl(true, true, false, -200);
+		/*Zahl z = new Zahl(true, true, false, 100);
 		z.setEven();
 		z.setSmall();
 		z.setPositive();
